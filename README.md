@@ -10,4 +10,4 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+fullstack+dev;I+love+coding+and+building+apps)]
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+fullstack+dev;I+love+coding+and+building+apps)
