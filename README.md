@@ -10,4 +10,4 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+fullstack+dev;I+love+coding+and+building+apps)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=I+am+a+fullstack+dev;I+love+coding+and+building+apps" alt="Typing SVG" />
