@@ -10,4 +10,4 @@
 
 
 
-<a href="https://eilafaljundi.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&center=true&vCenter=true&width=950&lines=eilafaljundi.com" alt="Typing SVG" /></a>
+<a href="https://eilafaljundi.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&center=true&vCenter=true&color=4A43AD&width=950&lines=eilafaljundi.com" alt="Typing SVG" /></a>
