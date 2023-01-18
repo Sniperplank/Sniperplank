@@ -1,13 +1,13 @@
                /\\\        /\\\  /\\\\\\\\\\\\\\\  /\\\              /\\\                   /\\\\\    
                \/\\\       \/\\\ \/\\\///////////  \/\\\             \/\\\                 /\\\///\\\    
-                \/\\\       \/\\\ \/\\\             \/\\\             \/\\\               /\\\/ \///\\\     
-                 \/\\\\\\\\\\\\\\\ \/\\\\\\\\\\\     \/\\\             \/\\\              /\\\     \//\\\    
-                  \/\\\/////////\\\ \/\\\///////      \/\\\             \/\\\             \/\\\      \/\\\    
-                   \/\\\       \/\\\ \/\\\             \/\\\             \/\\\             \//\\\    /\\\/   
-                    \/\\\       \/\\\ \/\\\             \/\\\             \/\\\             \///\\\ /\\\/ 
+                \/\\\       \/\\\ \/\\\             \/\\\             \/\\\               /\\\/  \///\\\     
+                 \/\\\\\\\\\\\\\\\ \/\\\\\\\\\\\     \/\\\             \/\\\              /\\\      \//\\\    
+                  \/\\\/////////\\\ \/\\\///////      \/\\\             \/\\\             \/\\\       \/\\\    
+                   \/\\\       \/\\\ \/\\\             \/\\\             \/\\\             \//\\\     /\\\/   
+                    \/\\\       \/\\\ \/\\\             \/\\\             \/\\\             \///\\\ _/\\\/ 
                      \/\\\       \/\\\ \/\\\\\\\\\\\\\\\ \/\\\\\\\\\\\\\\\ \/\\\\\\\\\\\\\\\   \///\\\\/
                       \///        \///  \///////////////  \///////////////  \///////////////      \////
 
 
 
-<a href="https://eilafaljundi.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&center=true&vCenter=true&color=4A43AD&width=950&lines=eilafaljundi.com" alt="Typing SVG" /></a>
+<a href="https://sniperplank.github.io/projects/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&center=true&vCenter=true&color=ffd300&width=950&lines=eilafaljundi.com;projects+manager;chrome+extension;random+quotes" alt="Typing SVG" /></a>
