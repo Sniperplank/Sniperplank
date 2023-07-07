@@ -12,7 +12,7 @@
 
 <h1 align="center">I am Eilaf</h1>
 <p align="center">
-  My day is complete once I write some code
+  I love coding!
 </p>
 
 <h2 align="center">My Projects</h2>
