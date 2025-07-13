@@ -11,8 +11,6 @@
 
 <h1 align="center">FREE PALESTINE</h1>
 
-<h2 align="center" $${\color{red}Red}$$>I am Eilaf</h2>
-
 <h3 align="center">My Projects:</h3>
 <p align="center">
   <a href="https://sniperplank.github.io/projects/">
