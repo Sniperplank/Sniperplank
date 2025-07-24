@@ -16,5 +16,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Sniperplank/Sniperplank/blob/main/end_line.png"/>
+  <img src="https://github.com/Sniperplank/Sniperplank/blob/main/red_line.png"/>
 </p>
