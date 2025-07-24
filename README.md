@@ -14,3 +14,7 @@
  <img src="https://github.com/Sniperplank/ContactMe/blob/main/images/contactme.png" alt="Contact Me" />
 </a>
 </p>
+
+<p align="center">
+  <img src="https://github.com/Sniperplank/Sniperplank/blob/main/red_line.png"/>
+</p>
