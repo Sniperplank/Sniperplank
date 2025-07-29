@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://github.com/Sniperplank/Sniperplank/blob/main/hello.png" alt="Hello" />
+  <a href="https://github.com/Sniperplank">
+    <img src="https://github.com/Sniperplank/Sniperplank/blob/main/hello.png" alt="Hello" />
+  </a>
 </p>
+
 <h1 align="center">FREE PALESTINE</h1>
 
 <h2 align="center">My Projects:</h2>
@@ -16,5 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Sniperplank/Sniperplank/blob/main/red_line.png"/>
+  <a href="https://github.com/Sniperplank">
+    <img src="https://github.com/Sniperplank/Sniperplank/blob/main/red_line.png"/>
+  </a>
 </p>
